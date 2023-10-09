@@ -1,0 +1,7 @@
+train: D:/task/task/data/train/images
+val: D:/task/task/data/valid/images
+test: D:/task/task/data/test/images
+
+# Classes
+nc: 1  # number of classes
+names: ['particle']  # class names
